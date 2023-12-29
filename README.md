@@ -1,4 +1,4 @@
-### Oii!! Eu sou a Débora👋 Bora codar?
+### Oii!! Eu sou a Débora👋 
 
 ##
 
