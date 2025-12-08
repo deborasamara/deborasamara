@@ -1,6 +1,6 @@
 ### Oii!! Eu sou a Débora👋 
 
-  #### Tenho 23 anos, estou cursando as matérias do 4° período de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) e sou formada em Informática para Internet também pelo IFRN. 
+  #### Tenho 24 anos, estou cursando as matérias do 4° período de Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) e sou formada em Informática para Internet também pelo IFRN. 
   #### Atualmente faço parte do projeto 'Cajuínas - Mulheres na Tecnologia', que visa apoiar a entrada e permanência de mulheres em cursos de tecnologia. Gosto de gatos 🐈, gosto de estudar coisas novas e participar de projetos. Vamos bater um papo? 👩‍💻
 
 <div align="center">
