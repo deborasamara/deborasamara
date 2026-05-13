@@ -3,13 +3,7 @@
   #### Me chamo Débora, estou cursando Análise e Desenvolvimento de Sistemas no  Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) e sou formada em Informática para Internet também pelo IFRN. 
   #### Atualmente faço parte do projeto 'Cajuínas - Mulheres na Tecnologia', que visa apoiar a entrada e permanência de mulheres em cursos de tecnologia. Gosto de gatos 🐈, gosto de estudar coisas novas e participar de projetos.
 
-<div align="center">
-  <a href="https://github.com/deborasamara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborasamara&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborasamara&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-  
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -17,10 +11,7 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
-
-                    
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />           
 </div>
  
 ##
